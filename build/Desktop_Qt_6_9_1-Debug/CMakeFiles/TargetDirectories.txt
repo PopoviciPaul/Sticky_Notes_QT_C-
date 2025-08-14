@@ -1,0 +1,9 @@
+/media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/Sticky_Notes.dir
+/media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/edit_cache.dir
+/media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/rebuild_cache.dir
+/media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/list_install_components.dir
+/media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install.dir
+/media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/local.dir
+/media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/strip.dir
+/media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/Sticky_Notes_autogen_timestamp_deps.dir
+/media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/Sticky_Notes_autogen.dir

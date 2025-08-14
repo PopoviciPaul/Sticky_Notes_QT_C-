@@ -1,0 +1,9 @@
+# ninja log v5
+267	2424	1755162961519448321	CMakeFiles/Sticky_Notes.dir/mainwindow.cpp.o	e7a3d91f13dc693e
+267	1980	1755162961076450318	CMakeFiles/Sticky_Notes.dir/Sticky_Notes_autogen/mocs_compilation.cpp.o	dbd87132d8c0f0c6
+2	267	1755162959360458018	/media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/Sticky_Notes_autogen/mocs_compilation.cpp	ee5f3857f230b91e
+267	1858	1755162960954450868	CMakeFiles/Sticky_Notes.dir/main.cpp.o	5cf67ff401c37f9
+2	267	1755162959360458018	/media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/Sticky_Notes_autogen/timestamp	ee5f3857f230b91e
+2	267	1755162959360458018	Sticky_Notes_autogen/mocs_compilation.cpp	ee5f3857f230b91e
+2424	2760	1755162961852446820	Sticky_Notes	13fa9b8a90b8155f
+2	267	1755162959360458018	Sticky_Notes_autogen/timestamp	ee5f3857f230b91e
