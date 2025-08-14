@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_Sticky_Notes_FILE /media/paul/D/QT_Projects/New_Series/Sticky_Notes/build/Desktop_Qt_6_9_1-Debug/Sticky_Notes)
-set(__QT_DEPLOY_TARGET_Sticky_Notes_TYPE EXECUTABLE)

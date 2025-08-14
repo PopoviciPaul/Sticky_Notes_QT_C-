@@ -81,11 +81,11 @@ void StickyNote::deleteNote() {
 }
 
 // --- MainWindow ---
-
 MainWindow::MainWindow() {
     setWindowTitle("Sticky Notes");
 
     notesMenu = menuBar()->addMenu("Menu");
+    alwaysOnTop = menuBar()->addMenu("Calculator");
 
     QAction *createNoteAction = new QAction("Create Note", this);
     notesMenu->addAction(createNoteAction);
@@ -96,7 +96,7 @@ MainWindow::MainWindow() {
     connect(createNoteAction, &QAction::triggered, this, &MainWindow::createNote);
     connect(viewNotesAction, &QAction::triggered, this, &MainWindow::updateNotesMenu);
 
-    // Load last note index
+    // Load last note index so we kno index of notes when we create/delete notes
     QFile idxFile(INDEX_FILE);
     if(idxFile.open(QIODevice::ReadOnly | QIODevice::Text)) {
         QTextStream in(&idxFile);
@@ -140,7 +140,7 @@ void MainWindow::updateNotesMenu() {
 
     for(const QString &fileName : noteFiles) {
         QString noteName = fileName;
-        noteName.chop(4); // remove .txt
+        noteName.chop(4); // so we remove the txt from the name and display it properly
         QAction *noteAction = new QAction(noteName, this);
         viewMenu->addAction(noteAction);
         connect(noteAction, &QAction::triggered, this, [this, fileName]() {

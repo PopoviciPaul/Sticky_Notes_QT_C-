@@ -42,6 +42,7 @@ private slots:
 private:
     QVector<StickyNote*> notes;
     QMenu *notesMenu;
+    QMenu *alwaysOnTop;
     int noteCounter;
     void saveNoteCounter();
     void reindexNotes(); // adjust note numbers after deletion
